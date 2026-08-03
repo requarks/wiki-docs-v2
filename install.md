@@ -36,4 +36,11 @@ dateCreated: 2019-02-15T04:22:28.058Z
 - [Install using Portainer](/install/portainer)
 {.links-list}
 
+## Managed Hosting
+Prefer not to run a server yourself? These third-party services host Wiki.js for you.
+
+[![Deploy with Zenith](https://cdn.zenith.hosting/buttons/deploy-with-zenith.svg)](https://zenith.hosting/host/wiki-js)
+
+One-click managed Wiki.js: storage, backups, email and a free subdomain included. A share of every subscription goes back to Wiki.js.
+
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg){.align-abstopright}
