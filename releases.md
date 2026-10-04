@@ -2,13 +2,12 @@
 title: Release Notes
 description: List of new features, bug fixes and improvements
 published: true
-date: 2026-10-04T06:10:30.637Z
+date: 2026-10-04T06:11:01.969Z
 tags: 
 editor: markdown
 dateCreated: 2019-05-26T03:34:27.819Z
 ---
 
-- [Roadmap *See planned features / improvements for future releases.*](/releases/roadmap)
 - [FAQ / Questions *Where's the detailed timeline? When is feature X being released?*](/releases/about)
 {.links-list}
 
