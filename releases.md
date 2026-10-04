@@ -2,7 +2,7 @@
 title: Release Notes
 description: List of new features, bug fixes and improvements
 published: true
-date: 2026-10-04T06:07:42.753Z
+date: 2026-10-04T06:10:30.637Z
 tags: 
 editor: markdown
 dateCreated: 2019-05-26T03:34:27.819Z
@@ -12,15 +12,13 @@ dateCreated: 2019-05-26T03:34:27.819Z
 - [FAQ / Questions *Where's the detailed timeline? When is feature X being released?*](/releases/about)
 {.links-list}
 
-# DEV - 3.0
+# BETA - 3.0
 
-> This build is **under development** and has not yet been released.
->
-> **Alpha Release**: See [alpha site docs](https://docs.js.wiki) for installation. Note that you must use the `3.0.0-alpha` image tag for now.
-> **Beta Release**: When [feature parity](https://github.com/requarks/wiki/issues/6844) with 2.x is achieved. No ETA.
+> This build is **under active development** and not yet recommended for production use.
 {.is-warning}
 
-See https://beta.js.wiki/blog for latest news about this upcoming release.
+- **Documentation**: [docs.js.wiki](https://docs.js.wiki)
+- **Website**: [beta.js.wiki](https://beta.js.wiki)
 
 # STABLE - 2.5.316
 
