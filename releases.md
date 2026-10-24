@@ -2,7 +2,7 @@
 title: Release Notes
 description: List of new features, bug fixes and improvements
 published: true
-date: 2026-10-04T06:11:01.969Z
+date: 2026-10-24T02:03:26.004Z
 tags: 
 editor: markdown
 dateCreated: 2019-05-26T03:34:27.819Z
@@ -19,7 +19,7 @@ dateCreated: 2019-05-26T03:34:27.819Z
 - **Documentation**: [docs.js.wiki](https://docs.js.wiki)
 - **Website**: [beta.js.wiki](https://beta.js.wiki)
 
-# STABLE - 2.5.316
+# STABLE - 2.5.317
 
 Release notes have moved to GitHub:
 > https://github.com/requarks/wiki-v2/releases
