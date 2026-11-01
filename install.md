@@ -34,6 +34,7 @@ dateCreated: 2019-02-15T04:22:28.058Z
 - [Install on Heroku](/install/heroku)
 - [Install on IBM Cloud Foundry](https://github.com/Requarks/wiki-ibm-cloud-foundry)
 - [Install on PikaPods](https://www.pikapods.com/pods?run=wiki-js)
+- [Install on podway](https://podway.io/start?app=wikijs&ref=docs-wikijs)
 - [Install using Portainer](/install/portainer)
 {.links-list}
 
