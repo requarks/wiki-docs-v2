@@ -2,14 +2,14 @@
 title: Wiki.js
 description: Official Documentation for 2.x
 published: true
-date: 2024-05-12T21:23:36.259Z
+date: 2026-11-02T05:42:32.136Z
 tags: 
 editor: markdown
 dateCreated: 2019-02-15T04:20:30.188Z
 ---
 
-> This documentation site is running on Wiki.js!
-{.is-success}
+> **You are viewing the documentation for Wiki.js 2.x.** For the newer Wiki.js 3.x, go to [docs.js.wiki](https://docs.js.wiki) instead.
+{.is-info}
 
 # Getting Started
 
